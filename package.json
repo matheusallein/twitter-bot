@@ -1,0 +1,22 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Initializing the creation of a twitter bot.",
+  "main": "twitterbot.js",
+  "scripts": {
+    "start": "node twitterbot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "robot",
+    "js",
+    "javascript"
+  ],
+  "author": "Matheus Allein",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.4"
+  }
+}
